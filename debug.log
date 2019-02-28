@@ -15,3 +15,9 @@
 [0227/145712.199:ERROR:file_io.cc(134)] WriteFile: There is not enough space on the disk. (0x70)
 [0227/145712.200:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
 [0227/145712.200:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\m4k04\AppData\Local\Temp\scoped_dir17320_10065\Crashpad\reports\dbc1c4da-9fe7-4bed-94ad-4569013eb315.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0227/164547.836:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0227/164547.838:ERROR:exception_snapshot_win.cc(88)] thread ID 16828 not found in process
+[0227/164548.630:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0227/164548.631:ERROR:exception_snapshot_win.cc(88)] thread ID 1064 not found in process
+[0227/164738.913:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0227/164738.913:ERROR:exception_snapshot_win.cc(88)] thread ID 10928 not found in process

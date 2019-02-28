@@ -21,6 +21,8 @@ with open("samCheckResult.csv") as csvfileA:
         writer.writeheader()
         for row in reader:
             entryName = (row['SAMResult'])
+            if entryName == "Not listed on SAM":
+                continue
             driver.get('https://www.sam.gov')
             time.sleep(2)
             driver.get('https://www.sam.gov/SAM/pages/public/searchRecords/search.jsf')
@@ -34,7 +36,7 @@ with open("samCheckResult.csv") as csvfileA:
                 #get the text that is the h5 child of the the span class= results_body_text
                 viewData = driver.find_element_by_xpath('//*[@id="searchResultsID:j_idt159:0:viewDetails"]')
                 viewData.click()
-                time.sleep(5)
+                time.sleep(3)
                 assertionsButton = driver.find_element_by_id('entitySearchForm:entitySearchassertionReview')
                 assertionsButton.click()
                 time.sleep(3)
@@ -59,11 +61,12 @@ with open("samCheckResult.csv") as csvfileA:
                     'NAICSCode': "Not listed",
                     'NAICSdesc': "Not listed",
                                 })
-            clearButton = driver.find_element_by_xpath('//*[@id="samContentForm"]/table[2]/tbody/tr[2]/td/input')
-            clearButton.click()
+##            clearButton = driver.find_element_by_xpath('//*[@id="samContentForm"]/table[2]/tbody/tr[2]/td/input')
+##            clearButton.click()
+##            time.sleep(1)
+            driver.close()
             time.sleep(1)
-            #driver.close()
-            #driver = webdriver.Chrome(r"C:\Program Files\Python\Python36\chromedriver.exe")
+            driver = webdriver.Chrome(r"C:\Program Files\Python\Python36\chromedriver.exe")
 
 #go to spreadsheet and get company names
 #seperate each name into a list
