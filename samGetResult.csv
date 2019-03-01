@@ -1,47 +1,47 @@
-SAMResult,NAICSCode,NAICSdesc
-"Dawson Group, Inc.",541330,Engineering Services
-Dawson Technical LLC,236220,Commercial and Institutional Building Construction 
-"Dawson Federal, Inc.",237130,Power and Communication Line and Related Structures Construction 
-"Dawson Solutions, LLC",562910,Remediation Services 
-"Dawson Enterprises, LLC",541614,"Process, Physical Distribution, and Logistics Consulting Services "
-"Dawson Global, LLC",237110,Water and Sewer Line and Related Structures Construction 
-"PELATRON, INC.",541713,Research and Development in Nanotechnology 
-Not Listed on SAM,Not listed,Not listed
-Pelatron Technologies LLC,335929,Other Communication and Energy Wire Manufacturing 
-"KE'AKI Technologies, LLC",561210,Facilities Support Services
-"Laulima Government Solutions, LLC",541611,Administrative Management and General Management Consulting Services 
-"KUPONO GOVERNMENT SERVICES, LLC",541690,Other Scientific and Technical Consulting Services
-"Kapili Services, LLC",541511,Custom Computer Programming Services 
-"Po'okela Solutions, LLC",541519,Other Computer Related Services
-"Kikaha Solutions, LLC",561210,Facilities Support Services
-"Pololei Solutions, LLC",541611,Administrative Management and General Management Consulting Services 
-"Kukulu, LLC",541219,Other Accounting Services 
-"KUHANA ASSOCIATES, LLC",541511,Custom Computer Programming Services 
-"Kili, LLC",541519,Other Computer Related Services
-"Akahi Associates, LLC",541611,Administrative Management and General Management Consulting Services 
-GSI Pacific Inc.,236220,Commercial and Institutional Building Construction 
-GSI North America Inc.,541620,Environmental Consulting Services
-GSI Global Inc.,237990,Other Heavy and Civil Engineering Construction 
-GSI Americas Inc.,237120,Oil and Gas Pipeline and Related Structures Construction 
-GSI Technologies Inc,541513,Computer Facilities Management Services 
-KALINO LLC,621111,Offices of Physicians (except Mental Health Specialists) 
-Pohaku Pacific LLC,541611,Administrative Management and General Management Consulting Services 
-"Soft Power Solutions, LLC",541611,Administrative Management and General Management Consulting Services 
-"INTERAGENCY READINESS SOLUTIONS, LLC",541990,"All Other Professional, Scientific, and Technical Services"
-"Broadleaf, Inc",541511,Custom Computer Programming Services 
-"CONSTRUCTION OUTFITTERS INTERNATIONAL, INC.",236220,Commercial and Institutional Building Construction 
-HUI HULIAU,551112,Offices of Other Holding Companies 
-RRC CONSULTING GROUP INC,541620,Environmental Consulting Services
-"Ho'Olaulima Government Solutions, LLC",562910,Remediation Services 
-"Hana Group, Inc., The",561612,Security Guards and Patrol Services 
-"HBC MANAGEMENT SERVICES, INC.",561612,Security Guards and Patrol Services 
-"Hana Industries, Inc.",541330,Engineering Services
-"JTSI, INC",541512,Computer Systems Design Services 
-"TOTAL NETWORK SOLUTIONS, LLC",238210,Electrical Contractors and Other Wiring Installation Contractors
-"KFS, LLC",541330,Engineering Services
-NA Alii Consulting & Sales LLC,561210,Facilities Support Services
-TMGE LLC,541330,Engineering Services
-"GREENPATH TECHNOLOGIES, INC.",221114,Solar Electric Power Generation 
-HAWAII RESOURCE GROUP LLC,483111,Deep Sea Freight Transportation 
-"Hawaii 5-0 Technology Services, Inc.",541713,Research and Development in Nanotechnology 
-Kokua Support Services Corporation,541330,Engineering Services
+SAMResult,NAICSCode,NAICSdesc,
+"Dawson Group, Inc.",541330,Engineering Services,541330 Engineering Services
+Dawson Technical LLC,236220,Commercial and Institutional Building Construction ,236220 Commercial and Institutional Building Construction 
+"Dawson Federal, Inc.",237130,Power and Communication Line and Related Structures Construction ,237130 Power and Communication Line and Related Structures Construction 
+"Dawson Solutions, LLC",562910,Remediation Services ,562910 Remediation Services 
+"Dawson Enterprises, LLC",541614,"Process, Physical Distribution, and Logistics Consulting Services ","541614 Process, Physical Distribution, and Logistics Consulting Services "
+"Dawson Global, LLC",237110,Water and Sewer Line and Related Structures Construction ,237110 Water and Sewer Line and Related Structures Construction 
+"PELATRON, INC.",541713,Research and Development in Nanotechnology ,541713 Research and Development in Nanotechnology 
+Not Listed on SAM,Not listed,Not listed,Not listed Not listed
+Pelatron Technologies LLC,335929,Other Communication and Energy Wire Manufacturing ,335929 Other Communication and Energy Wire Manufacturing 
+"KE'AKI Technologies, LLC",561210,Facilities Support Services,561210 Facilities Support Services
+"Laulima Government Solutions, LLC",541611,Administrative Management and General Management Consulting Services ,541611 Administrative Management and General Management Consulting Services 
+"KUPONO GOVERNMENT SERVICES, LLC",541690,Other Scientific and Technical Consulting Services,541690 Other Scientific and Technical Consulting Services
+"Kapili Services, LLC",541511,Custom Computer Programming Services ,541511 Custom Computer Programming Services 
+"Po'okela Solutions, LLC",541519,Other Computer Related Services,541519 Other Computer Related Services
+"Kikaha Solutions, LLC",561210,Facilities Support Services,561210 Facilities Support Services
+"Pololei Solutions, LLC",541611,Administrative Management and General Management Consulting Services ,541611 Administrative Management and General Management Consulting Services 
+"Kukulu, LLC",541219,Other Accounting Services ,541219 Other Accounting Services 
+"KUHANA ASSOCIATES, LLC",541511,Custom Computer Programming Services ,541511 Custom Computer Programming Services 
+"Kili, LLC",541519,Other Computer Related Services,541519 Other Computer Related Services
+"Akahi Associates, LLC",541611,Administrative Management and General Management Consulting Services ,541611 Administrative Management and General Management Consulting Services 
+GSI Pacific Inc.,236220,Commercial and Institutional Building Construction ,236220 Commercial and Institutional Building Construction 
+GSI North America Inc.,541620,Environmental Consulting Services,541620 Environmental Consulting Services
+GSI Global Inc.,237990,Other Heavy and Civil Engineering Construction ,237990 Other Heavy and Civil Engineering Construction 
+GSI Americas Inc.,237120,Oil and Gas Pipeline and Related Structures Construction ,237120 Oil and Gas Pipeline and Related Structures Construction 
+GSI Technologies Inc,541513,Computer Facilities Management Services ,541513 Computer Facilities Management Services 
+KALINO LLC,621111,Offices of Physicians (except Mental Health Specialists) ,621111 Offices of Physicians (except Mental Health Specialists) 
+Pohaku Pacific LLC,541611,Administrative Management and General Management Consulting Services ,541611 Administrative Management and General Management Consulting Services 
+"Soft Power Solutions, LLC",541611,Administrative Management and General Management Consulting Services ,541611 Administrative Management and General Management Consulting Services 
+"INTERAGENCY READINESS SOLUTIONS, LLC",541990,"All Other Professional, Scientific, and Technical Services","541990 All Other Professional, Scientific, and Technical Services"
+"Broadleaf, Inc",541511,Custom Computer Programming Services ,541511 Custom Computer Programming Services 
+"CONSTRUCTION OUTFITTERS INTERNATIONAL, INC.",236220,Commercial and Institutional Building Construction ,236220 Commercial and Institutional Building Construction 
+HUI HULIAU,551112,Offices of Other Holding Companies ,551112 Offices of Other Holding Companies 
+RRC CONSULTING GROUP INC,541620,Environmental Consulting Services,541620 Environmental Consulting Services
+"Ho'Olaulima Government Solutions, LLC",562910,Remediation Services ,562910 Remediation Services 
+"Hana Group, Inc., The",561612,Security Guards and Patrol Services ,561612 Security Guards and Patrol Services 
+"HBC MANAGEMENT SERVICES, INC.",561612,Security Guards and Patrol Services ,561612 Security Guards and Patrol Services 
+"Hana Industries, Inc.",541330,Engineering Services,541330 Engineering Services
+"JTSI, INC",541512,Computer Systems Design Services ,541512 Computer Systems Design Services 
+"TOTAL NETWORK SOLUTIONS, LLC",238210,Electrical Contractors and Other Wiring Installation Contractors,238210 Electrical Contractors and Other Wiring Installation Contractors
+"KFS, LLC",541330,Engineering Services,541330 Engineering Services
+NA Alii Consulting & Sales LLC,561210,Facilities Support Services,561210 Facilities Support Services
+TMGE LLC,541330,Engineering Services,541330 Engineering Services
+"GREENPATH TECHNOLOGIES, INC.",221114,Solar Electric Power Generation ,221114 Solar Electric Power Generation 
+HAWAII RESOURCE GROUP LLC,483111,Deep Sea Freight Transportation ,483111 Deep Sea Freight Transportation 
+"Hawaii 5-0 Technology Services, Inc.",541713,Research and Development in Nanotechnology ,541713 Research and Development in Nanotechnology 
+Kokua Support Services Corporation,541330,Engineering Services,541330 Engineering Services
